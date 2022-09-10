@@ -1,24 +1,13 @@
-# vue-twotter
+# Twooter
+A very simple clone of Twitter made with Vue.
 
-## Project setup
-```
-npm install
-```
+<br/>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+- [ IN PROGRESS ]
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+<br/>
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Credits
+[The Earth is Square](https://www.theearthissquare.com/)
